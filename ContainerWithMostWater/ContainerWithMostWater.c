@@ -21,5 +21,6 @@ int maxArea(int* height, int heightSize) {
         }
     }
 
+    
     return maxWater;
 }
